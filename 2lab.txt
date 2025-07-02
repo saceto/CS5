@@ -1,0 +1,56 @@
+1. Who invented the mouse?  
+   - Douglas Engelbart
+
+2. Who invented Twitter?  
+   - Jack Dorsey, Noah Glass, Biz Stone, and Evan Williams
+
+3. What is the name of the first MP3 player?  
+   - MPMan F10
+
+4. In the US, who was credited with inventing the first electronic digital computer?  
+   - John Atanasoff and Clifford Berry (Atanasoff-Berry Computer)
+
+5. What year did the first iPod come out?  
+   - 2001
+
+6. Who did Apple partner with to make the first iPod? (no initials)  
+   - Tony Fadell
+
+7. What does Augusta Ada Lovelace have to do with computers?  
+   - She is considered the first computer programmer for her work on Charles Babbage’s Analytical Engine.
+
+8. What two technology companies are suing or have sued Samsung over infringement rights?  
+   - Apple and Microsoft
+
+9. Special Effects Computer Group at Lucasfilm was renamed to what?  
+   - Pixar
+
+10. Who purchased Special Effects Computer Group at Lucasfilm?  
+   - Steve Jobs
+
+11. Who founded Industrial Light and Magic?  
+   - George Lucas
+
+12. This professor of mathematics joined the Navy in 1943. She led a distinguished career which included developing software for the UNIVAC1. She led the effort to develop a business language that eventually became COBOL. What is her name?  
+   - Grace Hopper
+
+13. IBM introduced the IBM Personal Computer or PC in what year?  
+   - 1981
+
+14. Name the first computer animated film to win an Academy Award.  
+   - Toy Story
+
+15. Who were the main characters in the first computer animated film to win an Academy Award?  
+   - Woody and Buzz Lightyear
+
+16. Who founded Yahoo?  
+   - Jerry Yang and David Filo
+
+17. What phrase is used to introduce novice programmers to a programming language?  
+   - Hello, World!
+
+18. What is PayPal?  
+   - An online payment system that allows users to send and receive money electronically.
+
+19. Who founded Instructure and how does this company impact you?  
+   - Founded by Brian Whitmer and Devlin Daley. It impacts users through its educational platform, Canvas, which is widely used in schools and universities.
